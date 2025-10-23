@@ -1,4 +1,4 @@
-package com.atalay.learn_spring_security.resources;
+package com.atalaykaan.learn_spring_security.resources;
 
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.security.web.csrf.CsrfToken;

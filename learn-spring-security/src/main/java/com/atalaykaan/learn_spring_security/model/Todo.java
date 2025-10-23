@@ -1,4 +1,4 @@
-package com.atalay.learn_spring_security.model;
+package com.atalaykaan.learn_spring_security.model;
 
 public class Todo {
 
@@ -11,11 +11,11 @@ public class Todo {
         this.description = description;
     }
 
-    public String getUser() {
+    public String getUsername() {
         return username;
     }
 
-    public void setUser(String username) {
+    public void setUsername(String username) {
         this.username = username;
     }
 

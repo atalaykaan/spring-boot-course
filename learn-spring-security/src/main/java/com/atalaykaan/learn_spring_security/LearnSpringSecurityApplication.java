@@ -1,4 +1,4 @@
-package com.atalay.learn_spring_security;
+package com.atalaykaan.learn_spring_security;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
